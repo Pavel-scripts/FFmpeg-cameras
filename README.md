@@ -2,8 +2,8 @@ This project contains two Windows batch scripts for camera recording and storage
 
 Files:
 
-* `cameras.bat` — continuously records RTSP camera streams using FFmpeg, automatically reconnects after connection failures, creates segmented `.ts` video files, and writes logs.
-* `delete.bat` — automatically deletes old `.ts` recordings, clears a recycle folder, removes empty folders, and runs cleanup at a configurable interval.
+* `cameras.bat` - continuously records RTSP camera streams using FFmpeg, automatically reconnects after connection failures, creates segmented `.ts` video files, and writes logs.
+* `delete.bat` - automatically deletes old `.ts` recordings, clears a recycle folder, removes empty folders, and runs cleanup at a configurable interval.
 
 Features:
 
